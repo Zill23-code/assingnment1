@@ -46,16 +46,15 @@
     font-size: 16px;
   
 }
-.banner-section {
-    background-image:
-    linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('./banner.jpg');
+.banner-section { background-image:
+  linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('./banner.jpg');
+   
     
-    background-size: cover;
-    background-position: center;
-min-width: auto;
-min-width: auto;
-margin: 20px;
-align-items: center;
+   
+   
+
+
+
 
 }
 .banner-head{
@@ -84,8 +83,7 @@ align-items: center;
     font-size: 16px;
 }
 .speakers-container{
-  width: 100%;
-  height: auto;
+  
    align-items: center;
  margin-left: 30px;
   
