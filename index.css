@@ -72,6 +72,8 @@ margin: 20px;
 }
 .btn-2{
     margin-left: 600px;
+    align-items: center;
+    margin-top: 20px;
 }
 .speakers-container{
    align-items: center;
