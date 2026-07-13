@@ -52,9 +52,10 @@
     
     background-size: cover;
     background-position: center;
-height: 786px;
+min-height: auto;
 width: 100%;
 margin: 20px;
+align-items: center;
 
 }
 .banner-head{
@@ -73,7 +74,7 @@ margin: 20px;
 .btn-2{
    margin-left: 650px;
     align-items: center;
-    margin-top: 50px;
+    margin-bottom: 30px;
     background-color:#1D4ED8 ;
     color: #FFFFFF;
     width:192px ;
