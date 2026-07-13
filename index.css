@@ -52,8 +52,8 @@
     
     background-size: cover;
     background-position: center;
-min-height: auto;
-width: 100%;
+min-width: auto;
+min-width: auto;
 margin: 20px;
 align-items: center;
 
@@ -84,6 +84,8 @@ align-items: center;
     font-size: 16px;
 }
 .speakers-container{
+  width: 100%;
+  height: auto;
    align-items: center;
  margin-left: 30px;
   
