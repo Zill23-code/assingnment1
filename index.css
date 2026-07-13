@@ -48,15 +48,11 @@
 }
 .banner-section { background-image:
   linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('./banner.jpg');
-   
-    
-   
-   
-
-
-
-
-}
+  width: 1551px;
+  height: 786px;
+  align-items: center;
+  position: relative;
+  }
 .banner-head{
     color: #FFFFFF;
     font-weight: bold;
@@ -73,14 +69,15 @@
 .btn-2{
    margin-left: 650px;
     align-items: center;
-    margin-bottom: 30px;
+    
     background-color:#1D4ED8 ;
     color: #FFFFFF;
-    width:192px ;
-    height: 50px;
+    width:282px ;
+    height: 74px;
     border-radius: 12px;
     font-weight: bold;
     font-size: 16px;
+    position: absolute;
 }
 .speakers-container{
   
