@@ -48,10 +48,11 @@
 }
 .banner-section { background-image:
   linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('./banner.jpg');
+  background-position: center;
+  background-size: cover;
   width: 1551px;
   height: 786px;
-  align-items: center;
-  position: relative;
+  
   }
 .banner-head{
     color: #FFFFFF;
